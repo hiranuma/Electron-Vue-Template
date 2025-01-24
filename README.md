@@ -1,4 +1,4 @@
-# electron-vue
+# electron-vue-template
 
 An Electron application with Vue and TypeScript
 
